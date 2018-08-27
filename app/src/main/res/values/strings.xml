@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="text">text</string>
+    <string name="welcome123">welcome123</string>
+    <string name="button">Button</string>
+    <string name="email">email</string>
+    <string name="hello_frnds">hello frnds!!</string>
+    <string name="time">time</string>
+</resources>
